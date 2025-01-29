@@ -162,6 +162,7 @@
               "buildTarget": "elements-1:build:production"
             },
             "development": {
+              "port": 4300,
               "buildTarget": "elements-1:build:development"
             }
           },
